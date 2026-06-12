@@ -1,0 +1,77 @@
+@import "@fontsource/noto-sans-kr";
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #228be6;
+
+  --color-text-primary: #212529;
+  --color-text-label: #495057;
+  --color-text-secondary: #868e96;
+  --color-text-muted: #adb5bd;
+  --color-text-tertiary: #ced4da;
+
+  --color-border: #e9ecef;
+  --color-border-light: #f1f3f5;
+  --color-border-strong: #ced4da;
+
+  --color-page: #f1f3f5;
+  --color-subtle: #f8f9fa;
+
+  --color-status-prep: #868e96;
+  --color-status-transit: #1c7ed6;
+  --color-status-done: #2f9e44;
+  --color-status-delay: #e8590c;
+  --color-status-return: #c92a2a;
+
+  --color-status-bg-prep: #f1f3f5;
+  --color-status-bg-transit: #e7f5ff;
+  --color-status-bg-done: #ebfbee;
+  --color-status-bg-delay: #fff4e6;
+  --color-status-bg-return: #fff5f5;
+
+  --color-status-border-prep: #ced4da;
+  --color-status-border-transit: #74c0fc;
+  --color-status-border-done: #8ce99a;
+  --color-status-border-delay: #ffd8a8;
+  --color-status-border-return: #ffc9c9;
+
+  --color-progress-blue: #339af0;
+  --color-progress-green: #51cf66;
+  --color-progress-orange: #ff922b;
+  --color-progress-orange-light: #ffa94d;
+  --color-progress-red: #ff6b6b;
+  --color-progress-red-light: #ff8787;
+
+  --color-text-primary-hover: #343a40;
+
+  --color-status-delay-text: #f08c00;
+  --color-status-return-text: #e03131;
+
+  --color-accent-navy: #1c3d6b;
+  --color-accent-navy-bg: #eef3fa;
+
+  --color-cargo-border: #e9d8a6;
+  --color-cargo-bg: #fff8e1;
+  --color-cargo-text: #c58b2a;
+}
+
+@theme {
+  --font-sans: "Noto Sans KR", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+body {
+  background: #ffffff;
+  color: #111827;
+}
