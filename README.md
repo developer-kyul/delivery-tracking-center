@@ -4,11 +4,12 @@
 
 배송 현황 카드를 통해서 직관적으로 현재 배송 상태를 조회하고, 송장번호와 화물 현황 및 화물 상태를 기반으로 배송 상태를 조회할 수 있는 물류 추적 서비스입니다.
 
-## 🔗 배포 링크
+## 🔗 링크
 
-- Demo :
-- Figma : https://www.figma.com/design/bb02ZG1i0OHrzG5qeDTihq/%EC%98%B4%EB%8B%88%ED%81%AC-%EC%BD%94%EB%A6%AC%EC%95%84_%EA%B3%BC%EC%A0%9C_%EA%B9%80%ED%95%9C%EA%B2%B0?node-id=0-1&t=jiNVSrm8N27XbDvr-1
-- GitHub :
+## 🔗 Links
+
+- [🚚 Live Demo](https://delivery-tracking-center.netlify.app/)
+- [🎨 Figma Design](https://www.figma.com/design/bb02ZG1i0OHrzG5qeDTihq/%EC%98%B4%EB%8B%88%ED%81%AC-%EC%BD%94%EB%A6%AC%EC%95%84_%EA%B3%BC%EC%A0%9C_%EA%B9%80%ED%95%9C%EA%B2%B0?node-id=0-1&t=jiNVSrm8N27XbDvr-1)
 
 ## 🚀 실행 방법
 
@@ -125,4 +126,4 @@ Pretendard도 고려하였으나, 보다 중립적이고 안정적인 인상을 
 
 ### Thank you for reading 😊
 
-OMNIQ KOREA 물류 배송 현황 추적 대시보드 과제를 확인해 주셔서 감사합니다.
+물류 배송 현황 추적 대시보드 과제를 확인해 주셔서 감사합니다.
